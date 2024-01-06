@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Pattern5O6 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int ln, ltr = 65;
+        int ln, ltr = 64;
         System.out.print("Enter the number of line: ");
         ln = input.nextInt();
         
@@ -14,9 +14,9 @@ public class Pattern5O6 {
                 System.out.print("  ");
             }
             for (int col = 1; col <= row; col++) {
-                System.out.print((char)(ltr) + " ");
+                System.out.print((char)(ltr+row) + " ");
             }
-            ltr++;
+            //ltr++;
             System.out.println("");
         }
     }

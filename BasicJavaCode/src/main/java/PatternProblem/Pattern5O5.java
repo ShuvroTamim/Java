@@ -16,7 +16,7 @@ public class Pattern5O5 {
             for (int col = 1; col <= row; col++) {
                 System.out.print((char)(ltr+col) + " ");
             }
-            ltr = 64;
+            //ltr = 64;
             System.out.println("");
         }
     }

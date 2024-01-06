@@ -16,7 +16,7 @@ public class Pattern6O5 {
             for (int col = 1; col <= row; col++) {
                 System.out.print((char)(ltr+col) + " ");
             }
-            ltr = 64;
+            //ltr = 64;
             System.out.println("");
         }
         for (int row = ln-1; row >= 1; row--) {
@@ -26,7 +26,7 @@ public class Pattern6O5 {
             for (int col = 1; col <= row; col++) {
                 System.out.print((char)(ltr+col) + " ");
             }
-            ltr = 64;
+            //ltr = 64;
             System.out.println("");
         }
     }
