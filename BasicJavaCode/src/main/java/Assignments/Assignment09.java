@@ -2,14 +2,15 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Assignment9 {
+public class Assignment09 {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int digit;
         System.out.print("Please enter a digit: ");
         digit = input.nextInt();
-        
-        switch(digit){
+
+        switch (digit) {
             case 1:
                 System.out.println("Selected language is Bengali");
                 break;
@@ -26,5 +27,4 @@ public class Assignment9 {
                 System.out.println("Please select a valid digit");
         }
     }
-    
 }
