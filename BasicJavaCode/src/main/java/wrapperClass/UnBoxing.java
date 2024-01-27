@@ -1,4 +1,4 @@
-package Wrapper_Class;
+package wrapperClass;
 
 public class UnBoxing {
     public static void main(String[] args) {

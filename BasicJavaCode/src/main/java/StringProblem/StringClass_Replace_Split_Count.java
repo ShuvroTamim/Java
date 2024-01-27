@@ -1,6 +1,6 @@
 package StringProblem;
 
-public class StringClass_Replace_Split {
+public class StringClass_Replace_Split_Count {
     public static void main(String[] args) {
         String str1 = "My name is Tamim";
         System.out.println("String value is: " + str1);
@@ -13,6 +13,10 @@ public class StringClass_Replace_Split {
         for (String splt : str3) {
             System.out.println(splt);
         }
+        
+        int count;
+        count = str3.length;
+        System.out.println("Number of words is: " + count);
     }
     
 }

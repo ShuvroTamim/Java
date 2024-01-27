@@ -1,4 +1,4 @@
-package Wrapper_Class;
+package wrapperClass;
 
 public class AutoBoxing {
     public static void main(String[] args) {
