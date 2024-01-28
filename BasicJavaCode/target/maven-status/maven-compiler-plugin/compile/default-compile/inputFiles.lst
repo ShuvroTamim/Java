@@ -19,6 +19,7 @@ D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern2O2.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern4O2.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\SquareSeries.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\WideningCasting.java
+D:\Codes\Java\BasicJavaCode\src\main\java\JavaMethods\StaticMethodExample.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern5O2.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern6O2.java
 D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\CharAtMethod_02.java
@@ -71,11 +72,13 @@ D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern6O5.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD14_Pyramid_3.java
 D:\Codes\Java\BasicJavaCode\src\main\java\Assignments\Assignment01_Product.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\SumOfOddNumbers.java
+D:\Codes\Java\BasicJavaCode\src\main\java\JavaMethods\InstanceMethodExample.java
 D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\StringClass_Replace_Split_Count.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD10_3.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern3O6.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern5.java
 D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\CharAtMethod_04.java
+D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\CompareToMethod_02.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern2.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern3O9.java
 D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\CharAtMethod_01.java
@@ -87,6 +90,7 @@ D:\Codes\Java\BasicJavaCode\src\main\java\ArrayProgram\ArrayUserInput_1_1D.java
 D:\Codes\Java\BasicJavaCode\src\main\java\ArrayProgram\ArrayDmo08_2D.java
 D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\SubStringMethod.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern3O3.java
+D:\Codes\Java\BasicJavaCode\src\main\java\JavaMethods\CreateUSerDefinedMethod_03.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD11_4.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD12_Pyramid_3.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD19_4.java
@@ -94,6 +98,7 @@ D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\UsernamePasswordValidation.j
 D:\Codes\Java\BasicJavaCode\src\main\java\ArrayProgram\ArrayUserInput_5_2D.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern7.java
 D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\String_Palindrome_Check.java
+D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\CompareToMethod_03.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\ReverseANumber.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern3O7.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\SumOfDigits.java
@@ -113,11 +118,13 @@ D:\Codes\Java\BasicJavaCode\src\main\java\ArrayProgram\ArrayDmo02.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD15_Rectangle.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD11_3.java
 D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\StringComparison_1.java
+D:\Codes\Java\BasicJavaCode\src\main\java\JavaMethods\CreateUSerDefinedMethod_01.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD19_5.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD12_Pyramid_4.java
 D:\Codes\Java\BasicJavaCode\src\main\java\ArrayProgram\ArrayDmo07_2D_2.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern2O6.java
 D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\StringMethod1.java
+D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\CharAtMethod_06.java
 D:\Codes\Java\BasicJavaCode\src\main\java\ArrayProgram\ArrayDmo01.java
 D:\Codes\Java\BasicJavaCode\src\main\java\ArrayProgram\ArrayDmo07_2D.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern9.java
@@ -131,6 +138,7 @@ D:\Codes\Java\BasicJavaCode\src\main\java\ArrayProgram\ArrayDeclarationCreation_
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern4O6.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\MultiplicationTableSeries.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD10_4.java
+D:\Codes\Java\BasicJavaCode\src\main\java\StringProblem\CompareToMethod_01.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern6.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\PatternD14_Pyramid.java
 D:\Codes\Java\BasicJavaCode\src\main\java\ArrayList\ArrayList_Forloop.java
@@ -143,6 +151,7 @@ D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\LargeNumTernaryOp.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\BitwiseOperator.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\ArmstrongNumberChecking.java
 D:\Codes\Java\BasicJavaCode\src\main\java\Conversion\StringToPrimitive.java
+D:\Codes\Java\BasicJavaCode\src\main\java\JavaMethods\CreateUSerDefinedMethod_02.java
 D:\Codes\Java\BasicJavaCode\src\main\java\BasicJava\PrimeNumberChecking2.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern7O4.java
 D:\Codes\Java\BasicJavaCode\src\main\java\PatternProblem\Pattern6O4.java
